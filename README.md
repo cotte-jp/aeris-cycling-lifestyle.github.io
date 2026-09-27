@@ -527,3 +527,12 @@ Cycling is not only the ride. It is the lifestyle around it.
 ## © 2026 AERIS Cycling
 
 **Ride further. Live lighter.**
+
+
+## V2 Visual Refinement
+
+- Replaced the homepage hero with a new high-resolution cinematic cycling photograph.
+- Rebuilt the main product photography set with sharper, cleaner studio imagery.
+- Added alternate product framings to reduce repetitive-looking catalog cards.
+- Improved hero CTA contrast and product image rendering.
+- Kept all imagery local so GitHub Pages does not depend on remote image hosts.
