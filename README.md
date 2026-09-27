@@ -536,3 +536,27 @@ Cycling is not only the ride. It is the lifestyle around it.
 - Added alternate product framings to reduce repetitive-looking catalog cards.
 - Improved hero CTA contrast and product image rendering.
 - Kept all imagery local so GitHub Pages does not depend on remote image hosts.
+
+
+---
+
+## V3 Update
+
+AERIS V3 focuses on visual variety and a clearer customer-support experience.
+
+### V3 Improvements
+- Added 18 newly generated, locally stored product photographs.
+- Reassigned the first 18 catalog products so they no longer share the same repeated imagery.
+- Removed the lower-quality `old` and `old-alt` product assets from the package.
+- Replaced the main hero with a new high-resolution cycling photograph.
+- Refreshed selected editorial collection imagery.
+- Added a visible support email and phone contact across the storefront.
+- Expanded the Support & Contact page with direct email, phone, hours, response guidance and a support request form.
+- Added a dedicated support callout to the homepage.
+
+### Support
+- Email: `support@aeriscycling.example`
+- Phone: `+1 (303) 555-0148`
+- Hours: Monday–Friday · 9 AM–6 PM EST
+
+> This is a static demo storefront. Verify commercial contact details, product information, pricing, policies, inventory and image rights before launch.
